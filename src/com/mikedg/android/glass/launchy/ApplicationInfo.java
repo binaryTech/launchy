@@ -39,7 +39,7 @@ class ApplicationInfo {
      * The application icon.
      */
     Drawable icon;
-
+//Test
     /**
      * When set to true, indicates that the icon has been resized.
      */
